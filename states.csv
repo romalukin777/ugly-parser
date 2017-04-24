@@ -1,0 +1,534 @@
+1;AL
+2;AK
+3;AS
+4;AZ
+5;AR
+6;AF
+7;AA
+8;AC
+9;AE
+10;AM
+11;AP
+12;CA
+13;CO
+14;CT
+15;DE
+16;DC
+17;FM
+18;FL
+19;GA
+20;GU
+21;HI
+22;ID
+23;IL
+24;IN
+25;IA
+26;KS
+27;KY
+28;LA
+29;ME
+30;MH
+31;MD
+32;MA
+33;MI
+34;MN
+35;MS
+36;MO
+37;MT
+38;NE
+39;NV
+40;NH
+41;NJ
+42;NM
+43;NY
+44;NC
+45;ND
+46;MP
+47;OH
+48;OK
+49;OR
+50;PW
+51;PA
+52;PR
+53;RI
+54;SC
+55;SD
+56;TN
+57;TX
+58;UT
+59;VT
+60;VI
+61;VA
+62;WA
+63;WV
+64;WI
+65;WY
+66;AB
+67;BC
+68;MB
+69;NL
+70;NB
+71;NS
+72;NT
+73;NU
+74;ON
+75;PE
+76;QC
+77;SK
+78;YT
+79;NDS
+80;BAW
+81;BAY
+82;BER
+83;BRG
+84;BRE
+85;HAM
+86;HES
+87;MEC
+88;NRW
+89;RHE
+90;SAR
+91;SAS
+92;SAC
+93;SCN
+94;THE
+95;WI
+96;NO
+97;OO
+98;SB
+99;KN
+100;ST
+101;TI
+102;BL
+103;VB
+104;AG
+105;AI
+106;AR
+107;BE
+108;BL
+109;BS
+110;FR
+111;GE
+112;GL
+113;GR
+114;JU
+115;LU
+116;NE
+117;NW
+118;OW
+119;SG
+120;SH
+121;SO
+122;SZ
+123;TG
+124;TI
+125;UR
+126;VD
+127;VS
+128;ZG
+129;ZH
+130;A Coru?a
+131;Alava
+132;Albacete
+133;Alicante
+134;Almeria
+135;Asturias
+136;Avila
+137;Badajoz
+138;Baleares
+139;Barcelona
+140;Burgos
+141;Caceres
+142;Cadiz
+143;Cantabria
+144;Castellon
+145;Ceuta
+146;Ciudad Real
+147;Cordoba
+148;Cuenca
+149;Girona
+150;Granada
+151;Guadalajara
+152;Guipuzcoa
+153;Huelva
+154;Huesca
+155;Jaen
+156;La Rioja
+157;Las Palmas
+158;Leon
+159;Lleida
+160;Lugo
+161;Madrid
+162;Malaga
+163;Melilla
+164;Murcia
+165;Navarra
+166;Ourense
+167;Palencia
+168;Pontevedra
+169;Salamanca
+170;Santa Cruz de Tenerife
+171;Segovia
+172;Sevilla
+173;Soria
+174;Tarragona
+175;Teruel
+176;Toledo
+177;Valencia
+178;Valladolid
+179;Vizcaya
+180;Zamora
+181;Zaragoza
+182;01
+183;02
+184;03
+185;04
+186;05
+187;06
+188;07
+189;08
+190;09
+191;10
+192;11
+193;12
+194;13
+195;14
+196;15
+197;16
+198;17
+199;18
+200;19
+201;2A
+202;2B
+203;21
+204;22
+205;23
+206;24
+207;25
+208;26
+209;27
+210;28
+211;29
+212;30
+213;31
+214;32
+215;33
+216;34
+217;35
+218;36
+219;37
+220;38
+221;39
+222;40
+223;41
+224;42
+225;43
+226;44
+227;45
+228;46
+229;47
+230;48
+231;49
+232;50
+233;51
+234;52
+235;53
+236;54
+237;55
+238;56
+239;57
+240;58
+241;59
+242;60
+243;61
+244;62
+245;63
+246;64
+247;65
+248;66
+249;67
+250;68
+251;69
+252;70
+253;71
+254;72
+255;73
+256;74
+257;75
+258;76
+259;77
+260;78
+261;79
+262;80
+263;81
+264;82
+265;83
+266;84
+267;85
+268;86
+269;87
+270;88
+271;89
+272;90
+273;91
+274;92
+275;93
+276;94
+277;95
+278;AB
+279;AR
+280;AG
+281;BC
+282;BH
+283;BN
+284;BT
+285;BV
+286;BR
+287;B
+288;BZ
+289;CS
+290;CL
+291;CJ
+292;CT
+293;CV
+294;DB
+295;DJ
+296;GL
+297;GR
+298;GJ
+299;HR
+300;HD
+301;IL
+302;IS
+303;IF
+304;MM
+305;MH
+306;MS
+307;NT
+308;OT
+309;PH
+310;SM
+311;SJ
+312;SB
+313;SV
+314;TR
+315;TM
+316;TL
+317;VS
+318;VL
+319;VN
+320;Lappi
+321;Pohjois-Pohjanmaa
+322;Kainuu
+323;Pohjois-Karjala
+324;Pohjois-Savo
+325;Etelä-Savo
+326;Etelä-Pohjanmaa
+327;Pohjanmaa
+328;Pirkanmaa
+329;Satakunta
+330;Keski-Pohjanmaa
+331;Keski-Suomi
+332;Varsinais-Suomi
+333;Etelä-Karjala
+334;Päijät-Häme
+335;Kanta-Häme
+336;Uusimaa
+337;Itä-Uusimaa
+338;Kymenlaakso
+339;Ahvenanmaa
+340;EE-37
+341;EE-39
+342;EE-44
+343;EE-49
+344;EE-51
+345;EE-57
+346;EE-59
+347;EE-65
+348;EE-67
+349;EE-70
+350;EE-74
+351;EE-78
+352;EE-78
+353;EE-82
+354;EE-84
+355;EE-86
+356;LV-DGV
+357;LV-JEL
+358;LV-JEL
+359;Jēkabpils
+360;LV-JUR
+361;LV-JUR
+362;LV-LPX
+363;LV-LE
+364;LV-LE
+365;LV-REZ
+366;LV-RIX
+367;LV-RI
+368;Valmiera
+369;LV-VEN
+370;Aglonas novads
+371;LV-VEN
+372;LV-AI
+373;Aizputes novads
+374;Aknīstes novads
+375;Alojas novads
+376;Alojas novads
+377;Alsungas novads
+378;LV-AL
+379;LV-AL
+380;Amatas novads
+381;Apes novads
+382;Auces novads
+383;Babītes novads
+384;Babītes novads
+385;Baldones novads
+386;Baltinavas novads
+387;Baltinavas novads
+388;LV-BL
+389;LV-BL
+390;LV-BU
+391;Beverīnas novads
+392;Beverīnas novads
+393;Brocēnu novads
+394;Burtnieku novads
+395;Carnikavas novads
+396;Cesvaines novads
+397;Cesvaines novads
+398;Ciblas novads
+399;LV-CE
+400;LV-CE
+401;Dagdas novads
+402;Dagdas novads
+403;LV-DA
+404;LV-DO
+405;Dundagas novads
+406;Dundagas novads
+407;Durbes novads
+408;Engures novads
+409;Engures novads
+410;Garkalnes novads
+411;Grobiņas novads
+412;LV-GU
+413;LV-GU
+414;Iecavas novads
+415;Ikšķiles novads
+416;Ikšķiles novads
+417;Ilūkstes novads
+418;Inčukalna novads
+419;Jaunjelgavas novads
+420;Jaunpiebalgas novads
+421;Jaunpils novads
+422;LV-JL
+423;LV-JL
+424;LV-JK
+425;Kandavas novads
+426;Kandavas novads
+427;Kokneses novads
+428;Krimuldas novads
+429;Krimuldas novads
+430;Krustpils novads
+431;LV-KR
+432;LV-KR
+433;LV-KU
+434;Kārsavas novads
+435;Lielvārdes novads
+436;LV-LM
+437;Lubānas novads
+438;LV-LU
+439;Līgatnes novads
+440;Līvānu novads
+441;Līvānu novads
+442;LV-MA
+443;Mazsalacas novads
+444;Mazsalacas novads
+445;Mālpils novads
+446;Mārupes novads
+447;Naukšēnu novads
+448;Neretas novads
+449;Nīcas novads
+450;Nīcas novads
+451;LV-OG
+452;Olaines novads
+453;Olaines novads
+454;Ozolnieku novads
+455;LV-PR
+456;LV-PR
+457;Priekules novads
+458;Priekuļu novads
+459;Pārgaujas novads
+460;Pāvilostas novads
+461;Pļaviņu novads
+462;Pļaviņu novads
+463;Raunas novads
+464;Riebiņu novads
+465;Riebiņu novads
+466;Rojas novads
+467;Ropažu novads
+468;Ropažu novads
+469;Rucavas novads
+470;Rugāju novads
+471;Rugāju novads
+472;Rundāles novads
+473;Rundāles novads
+474;LV-RE
+475;LV-RE
+476;Rūjienas novads
+477;Salacgrīvas novads
+478;Salacgrīvas novads
+479;Salas novads
+480;Salas novads
+481;Salaspils novads
+482;Salaspils novads
+483;LV-SA
+484;LV-SA
+485;Saulkrastu novads
+486;Siguldas novads
+487;Siguldas novads
+488;Skrundas novads
+489;Skrundas novads
+490;Skrīveru novads
+491;Skrīveru novads
+492;Smiltenes novads
+493;Smiltenes novads
+494;Stopiņu novads
+495;Stopiņu novads
+496;Strenču novads
+497;Sējas novads
+498;Sējas novads
+499;LV-TA
+500;LV-TA
+501;LV-TU
+502;LV-TU
+503;Tērvetes novads
+504;Tērvetes novads
+505;Vaiņodes novads
+506;LV-VK
+507;LV-VM
+508;Varakļānu novads
+509;Vecpiebalgas novads
+510;Vecumnieku novads
+511;Vecumnieku novads
+512;LV-VE
+513;Viesītes novads
+514;Viesītes novads
+515;Viļakas novads
+516;Viļānu novads
+517;Viļānu novads
+518;Vārkavas novads
+519;Zilupes novads
+520;Ādažu novads
+521;Ādažu novads
+522;Ērgļu novads
+523;Ķeguma novads
+524;Ķekavas novads
+525;LT-AL
+526;LT-KU
+527;LT-KL
+528;LT-MR
+529;LT-PN
+530;LT-SA
+531;LT-TA
+532;LT-TE
+533;LT-UT
+534;LT-VL
